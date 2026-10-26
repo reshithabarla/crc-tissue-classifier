@@ -1,0 +1,13 @@
+torch
+torchvision
+transformers
+scikit-learn
+matplotlib
+seaborn
+pandas
+pillow
+tqdm
+streamlit
+torch
+torchvision
+Pillow
